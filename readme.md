@@ -1,0 +1,1 @@
+There are some notes related to the basic knowledge of network of computer!
